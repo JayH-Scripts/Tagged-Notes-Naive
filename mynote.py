@@ -1,5 +1,6 @@
 #!/usr/bin/python3.8
-# port rebol rebnote to python for long term viability. 
+# port rebol rebnote to python for long term viability. IPython so no () typing.
+# but if you can easily type parens (LISP much?) then plain Python 3 is fine.
 #print(('%s[' % chr(27) + '1;%dm' % 37)
 
 # errs: import ipy_autoreload
