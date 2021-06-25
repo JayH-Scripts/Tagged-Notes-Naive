@@ -68,7 +68,7 @@ TnF = True
 
 #------------------------------------------------------------------------
 # RAW SQL FOR SETUP OF SQLITE DATABASE NEEDED FOR SCRIPT TO WORK
-#
+# SQLite3 mynotes.sqlite
 # CREATE TABLE note (note_txt TEXT NOT NULL, timestamp)
 # CREATE TABLE tag (tag_text TEXT NOT NULL)
 # CREATE TABLE fkeys (note_id INTEGER NOT NULL,tag_id INTEGER NOT NULL)
