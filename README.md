@@ -1,5 +1,5 @@
-# Tagged-Notes-Naive
-Command Line front ends to SQLite tables for notes, tags, and many-to-many lookup (note_id|tag_id), by a hobbyist.
+# Tagged-Notes-Naive for IPython3
+Command Line front ends to SQLite tables for notes, tags, and many-to-many lookup (note_id|tag_id), by a hobbyist. IPython so I don't have to type the parens after each function, due to autocall 2.
 
 Pretty sure you can uncomment the SQL, run it a line at a time (adjust that path!) in SQLite3, then the Python code will work. I think it is appropriate to leave the SQL comments in the main file to remind you of the triggers.
 
